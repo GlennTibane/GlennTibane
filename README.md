@@ -23,7 +23,10 @@ I live for the "aha!" moment when data reveals something hidden.
 ### 📊 Featured Projects
 
 - **Customer_behavior_analysis-
-:**Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.  
+:**Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
+
+- **AI-Powered-Data-Agent-
+:**LangGraph-powered multi-agent system that turns natural language into safe SQL queries or ETL pipelines (extract/transform/load) across CSV, JSON, and Parquet.
 
 ## 🌱 Currently Learning 
 
