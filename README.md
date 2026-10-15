@@ -28,7 +28,7 @@ I live for the "aha!" moment when data reveals something hidden.
 - **AI-Powered-Data-Agent-
 :**LangGraph-powered multi-agent system that turns natural language into safe SQL queries or ETL pipelines (extract/transform/load) across CSV, JSON, and Parquet.
 
-- **uber-trip-analysis-powerbi-
+- **Uber-trip-analysis-powerbi-
 :**Power BI dashboard turning Uber trip data into insights on booking trends, revenue, trip efficiency, and pickup/drop-off demand to support data-driven decisions.
 
 ## 🌱 Currently Learning 
